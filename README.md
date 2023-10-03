@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Frontend Mentor Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/)
+- Frontend Mentor Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-using-tailwind-css-lR8CfRuyHS)
 - Live Site URL: [Live Hosted Website](https://mharvel13.github.io/Fylo-Landing-Page-With-Two-Column-Layout-Master/)
 - Github Solution URL: [Github Hosted Codes](https://github.com/Mharvel13/Fylo-Landing-Page-With-Two-Column-Layout-Master)
 
